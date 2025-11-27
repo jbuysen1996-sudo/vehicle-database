@@ -3,12 +3,12 @@
     "Hilux": [
       { "engine": "2.7 Petrol", "start": 2005, "end": 2015, "battery": "NS70L" },
       { "engine": "3.0 Diesel", "start": 2005, "end": 2015, "battery": "N70ZZL" },
-      { "engine": "2.8 Diesel", "start": 2016, "end": 2025, "battery": "DIN75LH" },
+      { "engine": "2.8 Diesel", "start": 2016, "end": 2025, "battery": "DIN65LH" },
       { "engine": "2.7 Petrol", "start": 2016, "end": 2025, "battery": "DIN55LH" }
     ],
     "HiAce": [
-      { "engine": "Diesel", "start": 2005, "end": 2019, "battery": "55D23L" },
-      { "engine": "Petrol", "start": 2005, "end": 2019, "battery": "NS70L" }
+      { "engine": "Diesel", "start": 2005, "end": 2019, "battery": "55D23L (2018 AND UP REQUIRE DIN85LH AGM" },
+      { "engine": "Petrol", "start": 2005, "end": 2019, "battery": "NS70L (2018 AND UP REQUIRE DIN85LH AGM" }
     ],
     "LandCruiser 70": [
       { "engine": "4.5 Diesel V8", "start": 2007, "end": 2025, "battery": "N70ZZL" }
@@ -43,7 +43,7 @@
       { "engine": "Hybrid", "start": 2019, "end": 2025, "battery": "LN0" }
     ],
     "Kluger": [
-      { "engine": "Petrol", "start": 2003, "end": 2019, "battery": "DIN65LH" },
+      { "engine": "Petrol", "start": 2003, "end": 2019, "battery": "NS70L" },
       { "engine": "Hybrid", "start": 2020, "end": 2025, "battery": "LN2" }
     ]
   },
@@ -77,8 +77,8 @@
       { "engine": "3.0 Diesel", "start": 2020, "end": 2025, "battery": "DIN75LH" }
     ],
     "CX-5": [
-      { "engine": "Petrol/Diesel", "start": 2012, "end": 2016, "battery": "55D23L" },
-      { "engine": "Petrol/Diesel", "start": 2017, "end": 2025, "battery": "Q85L Stop Start" }
+      { "engine": "Petrol/Diesel", "start": 2012, "end": 2013, "battery": "55D23L" },
+      { "engine": "Petrol/Diesel", "start": 2013, "end": 2025, "battery": "Q85L Stop Start" }
     ],
     "Mazda3": [
       { "engine": "Petrol", "start": 2004, "end": 2013, "battery": "55D23l" },
@@ -142,10 +142,10 @@
   },
   "Volkswagen": {
     "Amarok": [
-      { "engine": "Diesel", "start": 2010, "end": 2023, "battery": "DIN75LH" }
+      { "engine": "Diesel", "start": 2010, "end": 2023, "battery": "DIN75LH / UPGRADE TO AGM IS ADVISED" }
     ],
     "Golf": [
-      { "engine": "Petrol/Diesel", "start": 2000, "end": 2025, "battery": "DIN65LH EFB" }
+      { "engine": "Petrol/Diesel", "start": 2000, "end": 2025, "battery": "DIN65LH EFB OR AGM RECCOMENDED" }
     ],
     "Tiguan": [
       { "engine": "Petrol/Diesel", "start": 2007, "end": 2025, "battery": "DIN65LH EFB" }
@@ -162,7 +162,7 @@
       { "engine": "Diesel", "start": 2013, "end": 2020, "battery": "DIN75LH" }
     ],
     "Cruze": [
-      { "engine": "Petrol/Diesel", "start": 2009, "end": 2016, "battery": "DIN55L" }
+      { "engine": "Petrol/Diesel", "start": 2009, "end": 2016, "battery": "DIN65L" }
     ]
   }
 }
