@@ -7,7 +7,7 @@
       { "engine": "2.7 Petrol", "start": 2016, "end": 2025, "battery": "DIN55LH" }
     ],
     "HiAce": [
-      { "engine": "Diesel", "start": 2005, "end": 2019, "battery": "N70ZZL" },
+      { "engine": "Diesel", "start": 2005, "end": 2019, "battery": "55D23L" },
       { "engine": "Petrol", "start": 2005, "end": 2019, "battery": "NS70L" }
     ],
     "LandCruiser 70": [
@@ -25,8 +25,8 @@
       { "engine": "2.8 Diesel", "start": 2016, "end": 2025, "battery": "DIN75LH" }
     ],
     "Corolla": [
-      { "engine": "Petrol", "start": 2000, "end": 2012, "battery": "NS70" },
-      { "engine": "Petrol", "start": 2013, "end": 2018, "battery": "NS70L" },
+      { "engine": "Petrol", "start": 2000, "end": 2012, "battery": "NS60LS" },
+      { "engine": "Petrol", "start": 2013, "end": 2018, "battery": "55D23L" },
       { "engine": "Petrol", "start": 2019, "end": 2025, "battery": "LN2" },
       { "engine": "Hybrid", "start": 2016, "end": 2025, "battery": "LN0" }
     ],
@@ -65,7 +65,7 @@
   "Isuzu": {
     "D-MAX": [
       { "engine": "3.0 Diesel", "start": 2012, "end": 2019, "battery": "N70ZZL" },
-      { "engine": "3.0 Diesel", "start": 2020, "end": 2025, "battery": "DIN75LH" }
+      { "engine": "3.0 Diesel", "start": 2020, "end": 2025, "battery": "DIN65LH" }
     ],
     "MU-X": [
       { "engine": "3.0 Diesel", "start": 2013, "end": 2025, "battery": "DIN75LH" }
@@ -77,12 +77,12 @@
       { "engine": "3.0 Diesel", "start": 2020, "end": 2025, "battery": "DIN75LH" }
     ],
     "CX-5": [
-      { "engine": "Petrol/Diesel", "start": 2012, "end": 2016, "battery": "DIN55L" },
-      { "engine": "Petrol/Diesel", "start": 2017, "end": 2025, "battery": "DIN55LH" }
+      { "engine": "Petrol/Diesel", "start": 2012, "end": 2016, "battery": "55D23L" },
+      { "engine": "Petrol/Diesel", "start": 2017, "end": 2025, "battery": "Q85L Stop Start" }
     ],
     "Mazda3": [
-      { "engine": "Petrol", "start": 2004, "end": 2013, "battery": "DIN55L" },
-      { "engine": "Petrol", "start": 2014, "end": 2025, "battery": "DIN55LH" }
+      { "engine": "Petrol", "start": 2004, "end": 2013, "battery": "55D23l" },
+      { "engine": "Petrol", "start": 2014, "end": 2025, "battery": "Q85L Stop Start" }
     ]
   },
   "Mitsubishi": {
@@ -102,7 +102,7 @@
     "Navara": [
       { "engine": "D22 Diesel", "start": 1997, "end": 2015, "battery": "N70ZZL" },
       { "engine": "D40 Diesel", "start": 2005, "end": 2015, "battery": "N70ZZL" },
-      { "engine": "NP300 Diesel", "start": 2015, "end": 2025, "battery": "DIN75LH" }
+      { "engine": "NP300 Diesel", "start": 2015, "end": 2025, "battery": "DIN65LH" }
     ],
     "Patrol": [
       { "engine": "Y61 Diesel", "start": 1998, "end": 2016, "battery": "N70ZZL" },
@@ -145,17 +145,17 @@
       { "engine": "Diesel", "start": 2010, "end": 2023, "battery": "DIN75LH" }
     ],
     "Golf": [
-      { "engine": "Petrol/Diesel", "start": 2000, "end": 2025, "battery": "DIN55L" }
+      { "engine": "Petrol/Diesel", "start": 2000, "end": 2025, "battery": "DIN65LH EFB" }
     ],
     "Tiguan": [
-      { "engine": "Petrol/Diesel", "start": 2007, "end": 2025, "battery": "DIN55L" }
+      { "engine": "Petrol/Diesel", "start": 2007, "end": 2025, "battery": "DIN65LH EFB" }
     ]
   },
   "Holden": {
     "Commodore": [
-      { "engine": "Petrol", "start": 1997, "end": 2006, "battery": "DIN75LH" },
-      { "engine": "Petrol", "start": 2007, "end": 2017, "battery": "DIN75LH" },
-      { "engine": "V6/V8", "start": 2018, "end": 2020, "battery": "DIN88LH" }
+      { "engine": "Petrol", "start": 1997, "end": 2006, "battery": "DIN55LH" },
+      { "engine": "Petrol", "start": 2007, "end": 2017, "battery": "DIN66LH" },
+      { "engine": "V6/V8", "start": 2018, "end": 2020, "battery": "DIN65LH" }
     ],
     "Colorado": [
       { "engine": "Diesel", "start": 2008, "end": 2012, "battery": "N70ZZL" },
