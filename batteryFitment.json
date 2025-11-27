@@ -1,0 +1,168 @@
+{
+  "Toyota": {
+    "Hilux": [
+      { "engine": "2.7 Petrol", "start": 2005, "end": 2015, "battery": "NS70L" },
+      { "engine": "3.0 Diesel", "start": 2005, "end": 2015, "battery": "N70ZZL" },
+      { "engine": "2.8 Diesel", "start": 2016, "end": 2025, "battery": "DIN75LH" },
+      { "engine": "2.7 Petrol", "start": 2016, "end": 2025, "battery": "DIN55LH" }
+    ],
+    "HiAce": [
+      { "engine": "Diesel", "start": 2005, "end": 2019, "battery": "N70ZZL" },
+      { "engine": "Petrol", "start": 2005, "end": 2019, "battery": "NS70L" }
+    ],
+    "LandCruiser 70": [
+      { "engine": "4.5 Diesel V8", "start": 2007, "end": 2025, "battery": "N70ZZL" }
+    ],
+    "LandCruiser 200": [
+      { "engine": "4.5 Diesel V8", "start": 2007, "end": 2021, "battery": "N70ZZL" }
+    ],
+    "LandCruiser 300": [
+      { "engine": "3.3 Diesel", "start": 2021, "end": 2025, "battery": "DIN88LH" }
+    ],
+    "Prado": [
+      { "engine": "3.0 Diesel", "start": 2003, "end": 2009, "battery": "N70ZZL" },
+      { "engine": "3.0 Diesel", "start": 2010, "end": 2015, "battery": "DIN65LH" },
+      { "engine": "2.8 Diesel", "start": 2016, "end": 2025, "battery": "DIN75LH" }
+    ],
+    "Corolla": [
+      { "engine": "Petrol", "start": 2000, "end": 2012, "battery": "NS70" },
+      { "engine": "Petrol", "start": 2013, "end": 2018, "battery": "NS70L" },
+      { "engine": "Petrol", "start": 2019, "end": 2025, "battery": "LN2" },
+      { "engine": "Hybrid", "start": 2016, "end": 2025, "battery": "LN0" }
+    ],
+    "Camry": [
+      { "engine": "Petrol", "start": 2002, "end": 2011, "battery": "NS70L" },
+      { "engine": "Petrol", "start": 2012, "end": 2017, "battery": "DIN55LH" },
+      { "engine": "Petrol", "start": 2018, "end": 2025, "battery": "LN2" },
+      { "engine": "Hybrid", "start": 2012, "end": 2017, "battery": "LN0" },
+      { "engine": "Hybrid", "start": 2018, "end": 2025, "battery": "LN0" }
+    ],
+    "RAV4": [
+      { "engine": "Petrol", "start": 2006, "end": 2018, "battery": "DIN55L" },
+      { "engine": "Petrol", "start": 2019, "end": 2025, "battery": "DIN55LH" },
+      { "engine": "Hybrid", "start": 2019, "end": 2025, "battery": "LN0" }
+    ],
+    "Kluger": [
+      { "engine": "Petrol", "start": 2003, "end": 2019, "battery": "DIN65LH" },
+      { "engine": "Hybrid", "start": 2020, "end": 2025, "battery": "LN2" }
+    ]
+  },
+  "Ford": {
+    "Ranger": [
+      { "engine": "3.0 Diesel", "start": 2007, "end": 2011, "battery": "N70ZZL" },
+      { "engine": "2.2 Diesel", "start": 2012, "end": 2015, "battery": "DIN65LH" },
+      { "engine": "3.2 Diesel", "start": 2012, "end": 2021, "battery": "DIN75LH" },
+      { "engine": "2.0 Diesel", "start": 2019, "end": 2025, "battery": "DIN75LH" }
+    ],
+    "Everest": [
+      { "engine": "3.2 Diesel", "start": 2015, "end": 2021, "battery": "DIN75LH" },
+      { "engine": "2.0 Diesel", "start": 2019, "end": 2025, "battery": "DIN75LH" }
+    ],
+    "Transit": [
+      { "engine": "Diesel", "start": 2006, "end": 2025, "battery": "DIN75LH" }
+    ]
+  },
+  "Isuzu": {
+    "D-MAX": [
+      { "engine": "3.0 Diesel", "start": 2012, "end": 2019, "battery": "N70ZZL" },
+      { "engine": "3.0 Diesel", "start": 2020, "end": 2025, "battery": "DIN75LH" }
+    ],
+    "MU-X": [
+      { "engine": "3.0 Diesel", "start": 2013, "end": 2025, "battery": "DIN75LH" }
+    ]
+  },
+  "Mazda": {
+    "BT-50": [
+      { "engine": "3.0 Diesel", "start": 2012, "end": 2019, "battery": "N70ZZL" },
+      { "engine": "3.0 Diesel", "start": 2020, "end": 2025, "battery": "DIN75LH" }
+    ],
+    "CX-5": [
+      { "engine": "Petrol/Diesel", "start": 2012, "end": 2016, "battery": "DIN55L" },
+      { "engine": "Petrol/Diesel", "start": 2017, "end": 2025, "battery": "DIN55LH" }
+    ],
+    "Mazda3": [
+      { "engine": "Petrol", "start": 2004, "end": 2013, "battery": "DIN55L" },
+      { "engine": "Petrol", "start": 2014, "end": 2025, "battery": "DIN55LH" }
+    ]
+  },
+  "Mitsubishi": {
+    "Triton": [
+      { "engine": "Diesel", "start": 2006, "end": 2014, "battery": "N70ZZL" },
+      { "engine": "Diesel", "start": 2015, "end": 2025, "battery": "DIN75LH" }
+    ],
+    "Pajero": [
+      { "engine": "Diesel", "start": 2000, "end": 2021, "battery": "N70ZZL" }
+    ],
+    "Outlander": [
+      { "engine": "Petrol/Diesel", "start": 2006, "end": 2012, "battery": "NS70" },
+      { "engine": "Petrol/Diesel", "start": 2013, "end": 2025, "battery": "DIN55L" }
+    ]
+  },
+  "Nissan": {
+    "Navara": [
+      { "engine": "D22 Diesel", "start": 1997, "end": 2015, "battery": "N70ZZL" },
+      { "engine": "D40 Diesel", "start": 2005, "end": 2015, "battery": "N70ZZL" },
+      { "engine": "NP300 Diesel", "start": 2015, "end": 2025, "battery": "DIN75LH" }
+    ],
+    "Patrol": [
+      { "engine": "Y61 Diesel", "start": 1998, "end": 2016, "battery": "N70ZZL" },
+      { "engine": "Y62 Petrol", "start": 2013, "end": 2025, "battery": "DIN75LH" }
+    ],
+    "X-Trail": [
+      { "engine": "Petrol", "start": 2001, "end": 2013, "battery": "NS70" },
+      { "engine": "Petrol", "start": 2014, "end": 2025, "battery": "DIN55L" }
+    ]
+  },
+  "Hyundai": {
+    "i30": [
+      { "engine": "Petrol/Diesel", "start": 2007, "end": 2012, "battery": "DIN55L" },
+      { "engine": "Petrol/Diesel", "start": 2013, "end": 2025, "battery": "DIN55LH" }
+    ],
+    "Tucson": [
+      { "engine": "Petrol/Diesel", "start": 2004, "end": 2015, "battery": "NS70L" },
+      { "engine": "Petrol/Diesel", "start": 2016, "end": 2025, "battery": "DIN55LH" }
+    ],
+    "Santa Fe": [
+      { "engine": "Petrol/Diesel", "start": 2000, "end": 2012, "battery": "NS70L" },
+      { "engine": "Petrol/Diesel", "start": 2013, "end": 2025, "battery": "DIN65LH" }
+    ],
+    "iLoad": [
+      { "engine": "Diesel", "start": 2007, "end": 2021, "battery": "N70ZZL" }
+    ]
+  },
+  "Kia": {
+    "Sportage": [
+      { "engine": "Petrol/Diesel", "start": 2005, "end": 2015, "battery": "NS70L" },
+      { "engine": "Petrol/Diesel", "start": 2016, "end": 2025, "battery": "DIN55LH" }
+    ],
+    "Sorento": [
+      { "engine": "Petrol/Diesel", "start": 2002, "end": 2014, "battery": "NS70L" },
+      { "engine": "Petrol/Diesel", "start": 2015, "end": 2025, "battery": "DIN65LH" }
+    ]
+  },
+  "Volkswagen": {
+    "Amarok": [
+      { "engine": "Diesel", "start": 2010, "end": 2023, "battery": "DIN75LH" }
+    ],
+    "Golf": [
+      { "engine": "Petrol/Diesel", "start": 2000, "end": 2025, "battery": "DIN55L" }
+    ],
+    "Tiguan": [
+      { "engine": "Petrol/Diesel", "start": 2007, "end": 2025, "battery": "DIN55L" }
+    ]
+  },
+  "Holden": {
+    "Commodore": [
+      { "engine": "Petrol", "start": 1997, "end": 2006, "battery": "DIN75LH" },
+      { "engine": "Petrol", "start": 2007, "end": 2017, "battery": "DIN75LH" },
+      { "engine": "V6/V8", "start": 2018, "end": 2020, "battery": "DIN88LH" }
+    ],
+    "Colorado": [
+      { "engine": "Diesel", "start": 2008, "end": 2012, "battery": "N70ZZL" },
+      { "engine": "Diesel", "start": 2013, "end": 2020, "battery": "DIN75LH" }
+    ],
+    "Cruze": [
+      { "engine": "Petrol/Diesel", "start": 2009, "end": 2016, "battery": "DIN55L" }
+    ]
+  }
+}
